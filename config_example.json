@@ -1,5 +1,5 @@
 {
-    "telegram_token": "8426499043:AAGrvvqiAr8-JrZT2VOlNvNn-zb90irUlXU",
+    "telegram_token": "",
     "solana_rpc": "https://api.mainnet-beta.solana.com",
     "jupiter_endpoint": "https://quote-api.jup.ag",
     "data_dir": "./data",
