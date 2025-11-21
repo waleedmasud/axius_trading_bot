@@ -1,0 +1,7 @@
+{
+    "telegram_token": "8426499043:AAGrvvqiAr8-JrZT2VOlNvNn-zb90irUlXU",
+    "solana_rpc": "https://api.mainnet-beta.solana.com",
+    "jupiter_endpoint": "https://quote-api.jup.ag",
+    "data_dir": "./data",
+    "poll_interval_seconds": 5
+}
